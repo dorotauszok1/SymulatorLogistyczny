@@ -1,0 +1,2 @@
+# SymulatorLogistyczny
+Symulator procesu logistycznego
